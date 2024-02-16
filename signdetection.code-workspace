@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Users/manimaddy/OneDrive/Desktop/test-main/mp_hand_gesture"
+		},
+		{
+			"path": "../../../Users/manimaddy/OneDrive/Desktop/test-main/templates"
+		},
+		{
+			"path": "../../../Users/manimaddy/OneDrive/Desktop/test-main/__pycache__"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "signdetection"
+	}
+}
